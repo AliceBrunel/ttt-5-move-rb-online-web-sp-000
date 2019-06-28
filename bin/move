@@ -23,6 +23,8 @@ puts "                                       "
 puts "Welcome to Tic Tac Toe!
 Where would you like to go?"
 
+board = [
+
 input = gets
 
 
