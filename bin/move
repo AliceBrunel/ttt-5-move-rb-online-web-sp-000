@@ -2,24 +2,6 @@
 
 require_relative '../lib/move.rb'
 
-puts "-----------   -----------   -----------"
-puts "-----------   -----------   -----------"
-puts "   -----         -----      ---        "
-puts "   -----         -----      ---        "
-puts "   -----         -----      ---        "
-puts "   -----         -----      ---        "
-puts "   -----      -----------   -----------"
-puts "   -----      -----------   -----------"
-
-puts "--------------TIC TAC TOE   -----------"
-puts "                                       "
-puts "                                       "
-puts "               # | # | # "
-puts "              -----------"
-puts "               # | # | # "
-puts "              -----------"
-puts "               # | # | # "
-puts "                                       "
 puts "Welcome to Tic Tac Toe!
 Where would you like to go?"
 
