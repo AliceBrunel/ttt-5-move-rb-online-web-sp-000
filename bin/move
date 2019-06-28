@@ -2,6 +2,6 @@
 
 require_relative '../lib/move.rb'
 
-display_board(0)
+display_board(board)
 
 # Code your CLI Here
