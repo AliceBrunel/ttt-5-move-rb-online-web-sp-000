@@ -25,7 +25,5 @@ Where would you like to go?"
 
 input = gets
 
-input_to_index(input)
-
 
 # Code your CLI Here
