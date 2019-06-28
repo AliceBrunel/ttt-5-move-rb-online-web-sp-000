@@ -23,7 +23,8 @@ puts "                                       "
 puts "Welcome to Tic Tac Toe!
 Where would you like to go?"
 
-input_to_index(gets)
+input = gets.strip
+
 
 display_board(board)
 
