@@ -29,6 +29,8 @@ input = gets.strip
 
 input_to_index(input)
 
+input
+
 move(board, input, "X")
 
 display_board(board)
