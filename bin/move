@@ -23,6 +23,7 @@ puts "                                       "
 puts "Welcome to Tic Tac Toe!
 Where would you like to go?"
 
+input_to_index(gets)
 
 display_board(board)
 
